@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sanjay's portfoilo</title>
+</head>
+<body>
+    <h2>Examination form : 2022-2023</h2>
+    <hr>
+    <form>
+        <label for="">your name:</label>
+        <input type="text" name="" id="">
+    </form>
+    <label for="">D.O.B: &ensp; &ensp;&ensp;</label>
+    <input type="date" name="" id="">
+        </form> 
+        <form>
+    <label for="">EMAIL ID:</label>
+    <input type="text" name="" id="">
+</form>
+<form >
+    <label for="">select your passport size photo :📸</label>
+    <input type="file" name="" id="">
+</form>
+<hr>
+<form >
+    <h4>select your year</h4>
+    <div>
+    <label for="">1styear</label>
+    <input type="checkbox" name="" id="">
+    </div>
+    <div>
+        <label for="">2nd year</label>
+        <input type="checkbox" name="" id="">
+        <div>
+            <label for="">3rd year</label>
+            <input type="checkbox" name="" id="">
+           <div>
+            <label for="">4th year</label>
+            <input type="checkbox" name="" id="">
+           </div>
+        </div>
+    </div>
+</form>
+<hr>
+<form>
+<label for="">&ensp;create your password:</label>
+<input type="password" name="" id="">
+<div>
+    <label for="">confirm your password:</label>
+    <input type="password" name="" id="">
+</div>
+</form> 
+<hr>
+<form >
+    <label for="">Enter your parmanent number 91📞 :</label>
+    <input type="number" name="" id="">
+</form>
+<hr>
+<form >
+    <label for="">Enter your address: 🏡</label>
+    <input type="address" name="" id="">
+</form>
+<hr>
+<form >
+    <h4>select colour according to your mark%</h4>
+    <label for="">below 50% choose red colour:🔴</label>
+    <div>
+        <label for="">from (50-75)% choose black colour:⚫</label>
+       <div> <label for="">from(76-90)% choose green colour:🟢</label></div>
+       <div>
+        <label for="">above 90% choose yellow colour:🟡</label>
+       </div>
+    </div>
+    <form >
+        <label for="">select colour</label>
+        <input type="color" name="" id="">
+    </form>
+<hr>
+</form>
+<form >
+<label for="">submit your form</label>
+<input type="submit" name="" id="">
+</form>
+</form>
+
+
+
+</body>
+</html>
