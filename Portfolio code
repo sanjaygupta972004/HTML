@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sanjay's portfoilo</title>
+</head>
+<body>
+
+    
+    <img src="download.png" alt="image" height="125"width=
+    "115">
+<u><h2>introduction</h2></u>
+<p>my name is sanjay gupta  and i am currently an undergraduates btech student at kiet group of institutions👍 i am from prayagraj ,uttar_pradesh
+<a href="https://www.kiet.edu/"><i><h6>my college website</h6></i>
+</p> 
+<b>my skill✌️</b>
+<ol>
+    <li>C</li>
+    <li>web development</li>
+    <li>python</li>
+</ol>
+<h6>MY HOBBBIES</h6>
+<ul>
+    <li>playing and watching cricket</li>
+    <li>listing music</li>
+    <li>love to photoshot</li>
+</ul>
+
+
+<table border="5">
+    <i>my qualification</i>
+    <tr>
+    <td>year</td>
+    <td>standard</td>
+    <td>Result</td>
+    </tr>
+<tr>
+    <td>2019</td>
+    <td>Highschool</td>
+    <td>80%</td>
+</tr>
+<tr>
+    <td>2021</td>
+    <td>intermidite</td>
+    <td>74%</td>
+</tr>
+<tr>
+    <td>2022</td>
+    <td>JEE</td>
+    <td>87%</td>
+</tr>
+<hr>
+</table>
+<hr>
+<a href="contact.html">Contact me</a>
+
+
+
+    
+</body>
+</html>
